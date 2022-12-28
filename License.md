@@ -1,0 +1,5 @@
+# LICENSES
+
+## Buffalo
+
+Something here
